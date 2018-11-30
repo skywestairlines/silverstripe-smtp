@@ -1,0 +1,15 @@
+{
+    "name": "skywestairlines/silverstripe-smtp",
+    "description": "SMTP Module for silverstripe",
+    "type": "silverstripe-module",
+    "keywords": [
+        "silverstripe",
+        "smtp"
+    ],
+    "authors": [
+        {
+            "name": "Hilkiah Makemo",
+            "email": "hilkiah.makemo@skywest.com"
+        }
+    ],
+}
